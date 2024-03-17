@@ -1,0 +1,31 @@
+body{
+    background-color: blue;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    color:#A6ADBA;
+}
+button{
+    padding: 6px 8px;
+    color:#fff;
+    background-color: #6419e6;
+    border-radius: 6px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: blue;
+}
+h1{
+    color:#A6ADBA;
+    font-weight: bolder;
+}
+p{
+    color:#A6ADBA;
+}
+.content{
+    
+text-align: center;
+}
